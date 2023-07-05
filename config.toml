@@ -1,0 +1,4 @@
+baseURL = 'w2w3w3.vercel.app/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme= 'hugo-theme-luna'
